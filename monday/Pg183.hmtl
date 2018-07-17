@@ -1,0 +1,50 @@
+<!Doctype html>
+<html lang="en">
+
+<head>
+	<title> some example  </title>
+	
+	<style>
+	
+	
+	</style>
+
+</head>
+
+<body>
+
+<div id="wrapper">
+
+	<header>
+		<div id="logo">
+				<span>LOGO</span>
+		</div>
+		
+		
+		<div id="main-text">
+			<h1>Lighthouse Bistro </h1>
+			
+		</div>
+		
+	</header>
+	
+	<nav>
+		
+	</nav>
+	
+	
+	<section>
+	
+	
+	</section>
+
+
+
+</div>
+
+
+
+
+
+</body>
+</html>
